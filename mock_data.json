@@ -1,0 +1,43 @@
+[
+  {
+    "id": "prop_001",
+    "title": "Modern Condo near BTS",
+    "location": {
+      "city": "Bangkok",
+      "district": "Sukhumvit",
+      "coordinates": {
+        "lat": 13.7376,
+        "lng": 100.5612
+      }
+    },
+    "price": 12500000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 75,
+    "images": [
+      "https://example.com/images/prop_001_1.jpg",
+      "https://example.com/images/prop_001_2.jpg"
+    ],
+    "listed_date": "2024-05-01T12:00:00Z"
+  },
+  {
+    "id": "prop_002",
+    "title": "Cozy House in Chiang Mai",
+    "location": {
+      "city": "Chiang Mai",
+      "district": "San Sai",
+      "coordinates": {
+        "lat": 18.8471,
+        "lng": 99.0158
+      }
+    },
+    "price": 3900000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 120,
+    "images": [
+      "https://example.com/images/prop_002_1.jpg"
+    ],
+    "listed_date": "2024-04-20T08:30:00Z"
+  }
+]
